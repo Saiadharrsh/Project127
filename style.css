@@ -1,0 +1,23 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width:100%;
+    font-size: 25px;
+    margin:0;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
+
+canvas{
+border:5px solid white;
+border-radius: 15px;
+box-shadow: 5px 5px 5px blueviolet;
+
+}
+
+.instr {
+    color:red;
+    font-size: 18px;
+}
